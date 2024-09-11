@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const birthday = new Date('2024-08-02T00:10:05'); // Replace with your birthday (e.g., '2024-08-15T00:00:00')
+    const birthday = new Date('2025-08-02T00:10:05'); // Replace with your birthday (e.g., '2024-08-15T00:00:00')
     
     function updateCountdown() {
         const now = new Date();
